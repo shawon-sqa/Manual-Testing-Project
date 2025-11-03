@@ -1,5 +1,5 @@
-# Manual-Testing-Project
-This repository showcases the complete QA process for the `<AppName>` application — including manual testing, API testing, and a basic level of test automation.
+#  SQA Project — Zensoft Lab, Octopai-digital
+This repository showcases the complete QA process for the `Zensoft Lab, Octopai-digital` application — including manual testing, API testing, and a basic level of test automation.
 
 ## 🔍 Overview
 
@@ -9,7 +9,7 @@ This repository showcases the complete QA process for the `<AppName>` applicatio
   - ✅ Functional UI Testing
   - ✅ API Testing (Postman/Newman)
   - ✅ Regression Testing
-  - ❌ Automation (optional)
+  
 
 ## 📂 Contents
 
@@ -18,5 +18,3 @@ This repository showcases the complete QA process for the `<AppName>` applicatio
 | `docs/` | Test plan, strategy, test cases, bug logs (Markdown) |
 | `testcases/` | Structured CSV files with UI/API test cases |
 | `postman/` | API test collections with environment configuration |
-| `automation/` | Selenium/Cypress automation scripts *(optional)* |
-| `.github/workflows/` | CI config to run Newman or PyTest in pipeline |
